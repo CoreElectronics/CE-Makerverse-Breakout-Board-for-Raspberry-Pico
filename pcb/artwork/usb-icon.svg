@@ -1,0 +1,43 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.68 19.36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        font-size: 8.39px;
+        font-family: GothamSSm-Black, Gotham SSm;
+        font-weight: 800;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fce2ea;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M2.1,0H20.58a2.1,2.1,0,0,1,2.1,2.1V15.84A1.17,1.17,0,0,1,21.51,17H1.17A1.17,1.17,0,0,1,0,15.84V2.1A2.1,2.1,0,0,1,2.1,0Z"/>
+  <text class="cls-2" transform="translate(1.97 7.76)">USB</text>
+  <g>
+    <g>
+      <rect class="cls-3" x="4.75" y="10.02" width="0.98" height="4.96"/>
+      <rect class="cls-3" x="4.5" y="10.87" width="1.49" height="3.26"/>
+    </g>
+    <g>
+      <rect class="cls-3" x="8.82" y="10.02" width="0.98" height="4.96"/>
+      <rect class="cls-3" x="8.56" y="10.87" width="1.49" height="3.26"/>
+    </g>
+    <g>
+      <rect class="cls-3" x="12.88" y="10.02" width="0.98" height="4.96"/>
+      <rect class="cls-3" x="12.63" y="10.87" width="1.49" height="3.26"/>
+    </g>
+    <g>
+      <rect class="cls-3" x="16.95" y="10.02" width="0.98" height="4.96"/>
+      <rect class="cls-3" x="16.7" y="10.87" width="1.49" height="3.26"/>
+    </g>
+  </g>
+  <path class="cls-1" d="M4.4,17H6.08a0,0,0,0,1,0,0v1.81a.55.55,0,0,1-.55.55H4.95a.55.55,0,0,1-.55-.55V17A0,0,0,0,1,4.4,17Z"/>
+  <path class="cls-1" d="M8.47,17h1.68a0,0,0,0,1,0,0v1.81a.55.55,0,0,1-.55.55H9a.55.55,0,0,1-.55-.55V17a0,0,0,0,1,0,0Z"/>
+  <path class="cls-1" d="M12.53,17h1.68a0,0,0,0,1,0,0v1.81a.55.55,0,0,1-.55.55h-.59a.55.55,0,0,1-.55-.55V17A0,0,0,0,1,12.53,17Z"/>
+  <path class="cls-1" d="M16.6,17h1.68a0,0,0,0,1,0,0v1.81a.55.55,0,0,1-.55.55h-.59a.55.55,0,0,1-.55-.55V17a0,0,0,0,1,0,0Z"/>
+</svg>
